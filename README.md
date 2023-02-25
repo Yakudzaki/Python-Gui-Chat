@@ -1,4 +1,4 @@
-# multithreaded-gui-chat-server
+# multithreaded-gui-chat
 Multithreaded chat server using socket programming and tkinter 
 1.Run the gui server.py file
 2.Run the gui client.py file 
